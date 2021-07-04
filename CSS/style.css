@@ -1,6 +1,6 @@
 body{
     font-family: 'Bona Nova', serif;
-    margin: 0 ;
+    margin: 0 0 0 0;
 }
 
 .top-banner{
@@ -104,12 +104,14 @@ h2{
 #experience{
     padding-left: 3%;
 }
-footer {
+footer{
     text-align: center;
-    background-image: url(Images/bottom-banner.jpg);
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: cover;
+    padding-left: 100px;
+    padding-top: 60px;
 }
-
-
+.bottom-banner img{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-bottom: 10px;
+}
