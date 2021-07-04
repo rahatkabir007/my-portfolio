@@ -1,6 +1,11 @@
 body{
     font-family: 'Bona Nova', serif;
 }
+
+body .top-banner{
+    background-image: url(Images/top-banner.png);
+}
+
 h1{
     font-size: 50px;
 
