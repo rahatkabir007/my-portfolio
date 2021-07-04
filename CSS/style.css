@@ -1,0 +1,29 @@
+body{
+    font-family: 'Bona Nova', serif;
+}
+h1{
+    font-size: 50px;
+
+}
+#name1{
+    color:  #0040ff;
+}
+section{
+    display: flex;
+}
+.half-area{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-area img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(rgba(202, 228, 235, 0.692),rgb(106, 137, 240) );
+    padding: 10px 40px;
+    color: black;
+    font-weight: 700;
+    border: 2px solid white;
+    border-radius: 5px;
+}
