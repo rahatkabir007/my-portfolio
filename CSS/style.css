@@ -104,9 +104,12 @@ h2{
 #experience{
     padding-left: 3%;
 }
-footer .bottom-banner{
+footer {
     text-align: center;
     background-image: url(Images/bottom-banner.jpg);
-    
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 
