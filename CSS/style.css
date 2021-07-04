@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 
-body .top-banner{
+.top-banner{
     background-image: url(Images/top-banner.png);
     background-repeat: no-repeat;
 }
@@ -25,6 +25,15 @@ section{
 }
 .half-area img{
     width: 60%;
+    padding-left: 20%;
+    padding-top: 3%;
+}
+.half-area2{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-area2 img{
+    width: 60%;
 }
 .link-button{
     text-decoration: none;
@@ -36,5 +45,7 @@ section{
     border-radius: 5px;
 }
 .dream-big{
-    background-image: url();
+    background-image: url(Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
