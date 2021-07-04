@@ -17,6 +17,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-area{
     width: 50%;
@@ -33,4 +34,7 @@ section{
     font-weight: 700;
     border: 2px solid white;
     border-radius: 5px;
+}
+.dream-big{
+    background-image: url();
 }
